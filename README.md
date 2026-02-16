@@ -74,28 +74,28 @@ Prefab instantiation
 Collision detection
 Score tracking
 
-📄 License
+License
 This project is open source and available under the MIT License.
-🙏 Acknowledgments
+Acknowledgments
 
 Built following Unity game development principles
 Apple Picker base concept from game development curriculum
 
 
-Enjoy the game! 🍎
+Enjoy the game! 
 
 Alternative Shorter Version (If You Want Something More Concise):
 
-🍎 Apple Picker Enhanced
+Apple Picker Enhanced
 A Unity 3D arcade game where you catch falling apples while avoiding branches!
 Game Features
 
-🎯 Catch apples for points (+100 each)
-🌿 Avoid branches (instant game over!)
-🧺 4 baskets - lose one per missed apple
-🎮 4 rounds of increasing difficulty
-🏆 High score tracking
-🎨 Start screen and restart functionality
+Catch apples for points (+100 each)
+Avoid branches (instant game over!)
+4 baskets - lose one per missed apple
+4 rounds of increasing difficulty
+High score tracking
+Start screen and restart functionality
 
 Tech Stack
 Unity 2021.3.33f1 | C# | Unity UI
