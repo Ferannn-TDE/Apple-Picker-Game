@@ -73,4 +73,4 @@ This project is open source and available under the MIT License.
 
 ---
 
-**Enjoy the game! 🎮🍎**
+**Enjoy the game! **
